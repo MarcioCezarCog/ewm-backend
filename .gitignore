@@ -1,0 +1,106 @@
+# =================================================================
+# SISTEMAS OPERACIONAIS
+# =================================================================
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de ícone gerados pelo macOS
+Icon?
+
+# Thumbs e outros caches do Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# Arquivos gerados pelo Linux
+.fuse_hidden*
+*.swp
+*.swo
+.pid
+*.seed
+
+# =================================================================
+# GERAL
+# =================================================================
+# Logs
+*.log
+*.log.*
+
+# =================================================================
+# FERRAMENTAS / IDEs / EDITORES
+# =================================================================
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+
+# NetBeans
+nbproject/
+*.nbattrs
+
+# =================================================================
+# ARTEFATOS DE BUILD
+# =================================================================
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.__backup__
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Arquivos de lock do Gradle
+gradle-app.setting
+gradle-app.packageCache
+
+# Jar/War/Ear
+*.jar
+*.war
+*.ear
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*~
+
+# =================================================================
+# LOMBOK
+# =================================================================
+# Se usar Lombok e gerar arquivos de configuração
+lombok.config
+
+# =================================================================
+# OUTROS (ajuste conforme necessário)
+# =================================================================
+# Configurações do Sonar
+.sonarqube/
+
+# Configurações do Docker
+.dockerignore
+
+# Arquivos de ambiente
+.env
+
+# =================================================================
+# FIM
+# =================================================================
