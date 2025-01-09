@@ -11,8 +11,8 @@
     <groupId>com.embraer</groupId>
     <artifactId>ewm-banckend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ewm-banckend2</name>
-    <description>ewm-banckend2</description>
+    <name>ewm-banckend</name>
+    <description>ewm-banckend</description>
     <url/>
     <licenses>
         <license/>
